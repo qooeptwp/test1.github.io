@@ -1,0 +1,12 @@
+.big{
+	margin:0;
+	padding:0;
+}
+div>div{
+	float:left;
+    width:30vw;
+    padding-bottom:30%;
+	background-color:orange;
+	margin:1%;
+	border-radius:20%;
+}
